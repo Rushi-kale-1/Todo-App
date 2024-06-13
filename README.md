@@ -5,10 +5,10 @@
 A robust and intuitive ToDo application built using the MERN stack, designed to help users manage their tasks efficiently with secure authentication.
 
 ## Features
-- User registration and authentication
-- Creation, updating, and deletion of tasks
-- Task categorization and prioritization
-- Real-time updates and task tracking
+- User registration and authentication,
+- Creation, updating, and deletion of tasks,
+- Task categorization and prioritization,
+- Real-time updates and task tracking.
 
 ## Technologies Used
 - **Database:** MongoDB (utilized Mongoose)
